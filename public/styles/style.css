@@ -1,45 +1,17 @@
 /* public/styles/style.css */
 
 /* import Bootstrap */
-
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header {
-    background-color: #333;
-    color: white;
-    padding: 1em;
-    text-align: center;
-  }
-  
-  main {
-    padding: 1em;
-  }
-  
-  #destaques {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .imovel {
-    border: 1px solid #ddd;
-    margin: 1em;
-    padding: 1em;
-    width: 300px;
-  }
-  
-  footer {
-    background-color: #333;
-    color: white;
-    padding: 1em;
-    text-align: center;
-  }
-  
-  h1{
-    color: #fc0000;
-  }
+
+/* No seu arquivo de estilo CSS */
+
+
+.c-item{
+    height: 480px;
+}
+
+.c-image{
+    height: 480px;
+
+}
