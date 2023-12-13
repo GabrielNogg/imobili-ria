@@ -1,4 +1,9 @@
 /* public/styles/style.css */
+
+/* import Bootstrap */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
